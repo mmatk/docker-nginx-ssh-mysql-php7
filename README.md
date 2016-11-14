@@ -15,7 +15,7 @@ $ docker pull alexcomu/docker-nginx-ssh-mysql-php7/:latest
 If you'd like to build the image yourself:
 
 ```bash
-$ git clone https://github.com/alexcomu/docker-nginx-ssh-mysql-php7.git
+$ git clone https://github.com/topix-hackademy/docker-nginx-ssh-mysql-php7.git
 $ cd docker-nginx-ssh-mysql-php7
 $ sudo docker build -t="alexcomu/docker-nginx-ssh-mysql-php7/" .
 ```
